@@ -1,0 +1,9 @@
+# 编译产物（STM32CubeIDE 生成）
+Debug/
+
+# WorkBuddy 本地 agent 数据
+.workbuddy-ai/
+
+# STM32CubeIDE 工作区元数据
+.settings/
+.workspace/
