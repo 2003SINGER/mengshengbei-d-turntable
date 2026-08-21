@@ -57,8 +57,12 @@ SYS_INIT → MENU_MAIN → { MODE_PAUSE, MODE_SPIN, MODE_TARGET, MODE_SLEEP, MOD
 
 ## 版本说明
 
-本仓库（`win final ver`）是**最终参赛版本**。工程中另有一份早期原型 `zzz win`
-（位于同级目录，未纳入本仓库），两者演进关系：
+本仓库同时收录两个版本，统一归档在一个仓库内：
+
+- **最终参赛版**：仓库根目录（`Core/`、`Drivers/`、`win final ver.ioc` 等），即本 README 前述全部内容。
+- **初版原型**：子目录 [`v1-prototype/`](v1-prototype)，对应早期 `zzz win`，开环控制、无蜂鸣器音乐。
+
+两者演进关系：
 
 | | `zzz win`（初版原型） | `win final ver`（本仓库 · 参赛版） |
 |---|---|---|

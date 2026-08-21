@@ -1,0 +1,6 @@
+# 编译产物（STM32CubeIDE 生成）
+Debug/
+
+# 工作区元数据
+.settings/
+.workspace/
